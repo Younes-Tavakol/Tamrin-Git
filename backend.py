@@ -12,6 +12,6 @@ def get_data(place, forecast_days=None):
     filtered_data = filtered_data[:nr_values]
     return filtered_data
 
-
+ojenhfO;kjn
 if __name__=="__name__":
     print(get_data(place="Tokyo", forecast_days=3))
